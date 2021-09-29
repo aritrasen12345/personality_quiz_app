@@ -1,4 +1,20 @@
-# flutter_complete_guide
+# Quiz App 
+
+This is a basic personality quiz app made using flutter and dart.
+The app has been developed only for practice purposes but it does implements most basic dart and flutter features.
+Just fork the repository and start testing your personality.
+
+## App Screenshots
+<b>Welcome Screen</b>
+<br>
+<img src="images/Screenshot (85).png" height="500px">
+<br>
+----------------------------------------------
+<b>This Screen Shows Your Personality</b>
+<br>
+<img src="images/Screenshot (86).png" height="500px">
+
+# personality_quiz_app
 
 A new Flutter project.
 
